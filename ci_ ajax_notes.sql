@@ -1,0 +1,1 @@
+SELECT * FROM ci_ajax_quotes.posts;
